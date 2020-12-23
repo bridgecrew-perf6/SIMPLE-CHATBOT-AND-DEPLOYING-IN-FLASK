@@ -1,1 +1,4 @@
 # SIMPLE-CHATBOT-AND-DEPLOYING-IN-FLASK
+
+
+![](images/clip.png)
